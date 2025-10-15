@@ -1,0 +1,2 @@
+Automation Name,Client/Self,Purpose,Primary Stack,Kill Switch Implemented?,Dry Run Start,Go Live Date,Hours Saved per Week,SLO Success %,MTTR (hrs),Task Spend per $1k Saved,Evidence Pack Links,Notes
+"Email Intake Parser",Self,"Route starred email attachments to Drive + Notion log",Zapier ✔ / Airtable ✔,Yes,2025-01-07,2025-01-08,1.5,100,0.5,$10,"https://loom.example/automation-demo, https://notion.example/casestudy","Initial quick win"
